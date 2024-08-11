@@ -1,0 +1,19 @@
+{
+  "name": "reg-form",
+  "version": "1.0.0",
+  "description": "This project is a registration form developed as part of my Full Stack Development internship at Bharat Intern. The form is built using HTML and CSS for the front end, Node.js for the back end, and MongoDB for the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1"
+  }
+}
